@@ -1,0 +1,31 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px gray;
+    
+}
+#transcription{
+    display: none;
+}
+.stutas{
+    margin: 0px 10px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+
+}
+.deposite{
+    background-color: red;
+}
+.withrow{
+    background-color: brown;
+}
+.balance{
+    background-color: cadetblue;
+}
+
+
